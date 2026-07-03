@@ -247,6 +247,9 @@ What I revised: The original edge cases section included a third case about mult
 6. Run: `python app.py`
 7. Server starts at `http://localhost:5000`
 
+## Walkthrough Video
+https://www.loom.com/share/150bb431787f42b5a8da749550c1071c
+
 ### Endpoints
 
 | Method | Route | Description |
